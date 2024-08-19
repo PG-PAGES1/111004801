@@ -1,0 +1,27 @@
+
+chongzhuan.jpg
+size: 954,954
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+respin_pattern
+  rotate: false
+  xy: 2, 632
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+respin_vfx_a_add
+  rotate: false
+  xy: 324, 592
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+respin_vfx_e_add
+  rotate: false
+  xy: 2, 2
+  size: 588, 588
+  orig: 588, 588
+  offset: 0, 0
+  index: -1

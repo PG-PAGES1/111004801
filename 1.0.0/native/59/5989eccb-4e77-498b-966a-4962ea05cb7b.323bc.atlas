@@ -1,0 +1,41 @@
+
+czstart.png
+size: 877,763
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_br_chac
+  rotate: false
+  xy: 436, 346
+  size: 439, 415
+  orig: 448, 424
+  offset: 1, 8
+  index: -1
+fs_br_glow
+  rotate: false
+  xy: 436, 18
+  size: 432, 326
+  orig: 432, 326
+  offset: 0, 0
+  index: -1
+fs_br_portal
+  rotate: false
+  xy: 2, 2
+  size: 295, 120
+  orig: 295, 120
+  offset: 0, 0
+  index: -1
+fs_br_shine
+  rotate: false
+  xy: 2, 124
+  size: 432, 637
+  orig: 432, 637
+  offset: 0, 0
+  index: -1
+mtp_mid_bluelight
+  rotate: false
+  xy: 299, 44
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1

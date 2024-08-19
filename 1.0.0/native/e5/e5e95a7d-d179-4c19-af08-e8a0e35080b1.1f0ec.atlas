@@ -1,0 +1,290 @@
+
+czend.png
+size: 1134,1134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font61_8
+  rotate: false
+  xy: 2, 29
+  size: 592, 1103
+  orig: 592, 1103
+  offset: 0, 0
+  index: -1
+lizi/tw_num_particle_00
+  rotate: false
+  xy: 596, 276
+  size: 536, 276
+  orig: 540, 326
+  offset: 1, 23
+  index: -1
+lizi/tw_num_particle_01
+  rotate: false
+  xy: 596, 554
+  size: 536, 286
+  orig: 540, 326
+  offset: 1, 18
+  index: -1
+lizi/tw_num_particle_02
+  rotate: false
+  xy: 596, 842
+  size: 536, 290
+  orig: 540, 326
+  offset: 1, 13
+  index: -1
+lizi/tw_num_particle_17
+  rotate: false
+  xy: 596, 10
+  size: 536, 264
+  orig: 540, 326
+  offset: 1, 29
+  index: -1
+
+czend2.png
+size: 1180,1180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feature_collect_annular/tw_num_wave_00
+  rotate: false
+  xy: 883, 617
+  size: 281, 223
+  orig: 405, 223
+  offset: 1, 0
+  index: -1
+feature_collect_annular/tw_num_wave_01
+  rotate: false
+  xy: 863, 392
+  size: 301, 223
+  orig: 405, 223
+  offset: 1, 0
+  index: -1
+feature_collect_annular/tw_num_wave_02
+  rotate: false
+  xy: 540, 465
+  size: 321, 219
+  orig: 405, 223
+  offset: 1, 2
+  index: -1
+feature_collect_annular/tw_num_wave_03
+  rotate: false
+  xy: 2, 693
+  size: 341, 205
+  orig: 405, 223
+  offset: 1, 9
+  index: -1
+feature_collect_annular/tw_num_wave_04
+  rotate: false
+  xy: 2, 301
+  size: 359, 191
+  orig: 405, 223
+  offset: 1, 15
+  index: -1
+feature_collect_annular/tw_num_wave_05
+  rotate: false
+  xy: 541, 874
+  size: 349, 177
+  orig: 405, 223
+  offset: 29, 22
+  index: -1
+feature_collect_annular/tw_num_wave_06
+  rotate: false
+  xy: 2, 900
+  size: 341, 165
+  orig: 405, 223
+  offset: 57, 28
+  index: -1
+feature_collect_annular/tw_num_wave_07
+  rotate: true
+  xy: 245, 1067
+  size: 111, 151
+  orig: 405, 223
+  offset: 89, 35
+  index: -1
+feature_collect_annular/tw_num_wave_08
+  rotate: true
+  xy: 106, 1075
+  size: 103, 137
+  orig: 405, 223
+  offset: 117, 41
+  index: -1
+feature_collect_annular/tw_num_wave_09
+  rotate: false
+  xy: 656, 1053
+  size: 239, 125
+  orig: 405, 223
+  offset: 1, 47
+  index: -1
+feature_collect_annular/tw_num_wave_10
+  rotate: false
+  xy: 892, 842
+  size: 259, 199
+  orig: 405, 223
+  offset: 1, 13
+  index: -1
+feature_collect_annular/tw_num_wave_11
+  rotate: false
+  xy: 363, 240
+  size: 277, 223
+  orig: 405, 223
+  offset: 1, 0
+  index: -1
+font01_a
+  rotate: false
+  xy: 2, 1085
+  size: 102, 93
+  orig: 109, 101
+  offset: 4, 4
+  index: -1
+gem1
+  rotate: false
+  xy: 513, 1061
+  size: 141, 117
+  orig: 150, 125
+  offset: 6, 4
+  index: -1
+gem2
+  rotate: true
+  xy: 345, 878
+  size: 181, 194
+  orig: 189, 196
+  offset: 4, 2
+  index: -1
+gem3
+  rotate: false
+  xy: 398, 1066
+  size: 113, 112
+  orig: 119, 115
+  offset: 3, 0
+  index: -1
+gem4
+  rotate: false
+  xy: 897, 1043
+  size: 140, 135
+  orig: 152, 139
+  offset: 5, 1
+  index: -1
+lizi/tw_num_particle_09
+  rotate: false
+  xy: 345, 686
+  size: 536, 186
+  orig: 540, 326
+  offset: 1, 82
+  index: -1
+lizi/tw_num_particle_10
+  rotate: false
+  xy: 2, 494
+  size: 536, 190
+  orig: 540, 326
+  offset: 1, 80
+  index: -1
+lizi/tw_num_particle_11
+  rotate: false
+  xy: 642, 178
+  size: 536, 212
+  orig: 540, 326
+  offset: 1, 59
+  index: -1
+lizi/tw_num_particle_12
+  rotate: false
+  xy: 2, 18
+  size: 536, 220
+  orig: 540, 326
+  offset: 1, 53
+  index: -1
+
+czend3.png
+size: 1184,1184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/tw_num_particle_04
+  rotate: false
+  xy: 2, 726
+  size: 536, 230
+  orig: 540, 326
+  offset: 1, 49
+  index: -1
+lizi/tw_num_particle_05
+  rotate: false
+  xy: 540, 722
+  size: 536, 230
+  orig: 540, 326
+  offset: 1, 45
+  index: -1
+lizi/tw_num_particle_06
+  rotate: false
+  xy: 540, 486
+  size: 536, 234
+  orig: 540, 326
+  offset: 1, 40
+  index: -1
+lizi/tw_num_particle_07
+  rotate: false
+  xy: 540, 954
+  size: 536, 228
+  orig: 540, 326
+  offset: 1, 34
+  index: -1
+lizi/tw_num_particle_08
+  rotate: false
+  xy: 2, 256
+  size: 536, 234
+  orig: 540, 326
+  offset: 1, 33
+  index: -1
+lizi/tw_num_particle_13
+  rotate: false
+  xy: 2, 958
+  size: 536, 224
+  orig: 540, 326
+  offset: 1, 50
+  index: -1
+lizi/tw_num_particle_14
+  rotate: false
+  xy: 2, 492
+  size: 536, 232
+  orig: 540, 326
+  offset: 1, 46
+  index: -1
+lizi/tw_num_particle_15
+  rotate: false
+  xy: 540, 242
+  size: 518, 242
+  orig: 540, 326
+  offset: 12, 40
+  index: -1
+lizi/tw_num_particle_16
+  rotate: false
+  xy: 2, 2
+  size: 532, 252
+  orig: 540, 326
+  offset: 4, 35
+  index: -1
+
+czend4.png
+size: 720,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 364, 12
+  size: 354, 434
+  orig: 354, 435
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 12
+  size: 360, 434
+  orig: 360, 434
+  offset: 0, 0
+  index: -1
+lizi/tw_num_particle_03
+  rotate: false
+  xy: 2, 448
+  size: 530, 270
+  orig: 540, 326
+  offset: 1, 9
+  index: -1

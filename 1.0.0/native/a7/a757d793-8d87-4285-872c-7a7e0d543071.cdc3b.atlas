@@ -1,0 +1,279 @@
+
+fx_stone.png
+size: 1133,1133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crushed_stone
+  rotate: true
+  xy: 843, 724
+  size: 13, 17
+  orig: 21, 22
+  offset: 4, 2
+  index: -1
+stone_broken_lines/ps_corner_glow
+  rotate: true
+  xy: 284, 395
+  size: 162, 151
+  orig: 162, 151
+  offset: 0, 0
+  index: -1
+stone_broken_lines/ps_crack_a
+  rotate: true
+  xy: 437, 416
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+stone_broken_lines/ps_crack_b
+  rotate: false
+  xy: 284, 261
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+stone_broken_lines/ps_crack_c
+  rotate: false
+  xy: 282, 127
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+stone_location
+  rotate: false
+  xy: 437, 293
+  size: 139, 121
+  orig: 139, 121
+  offset: 0, 0
+  index: -1
+stone_restore/ps_reform_00
+  rotate: false
+  xy: 282, 2
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_01
+  rotate: false
+  xy: 433, 168
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_02
+  rotate: false
+  xy: 431, 43
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_03
+  rotate: false
+  xy: 582, 734
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_04
+  rotate: false
+  xy: 576, 609
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_05
+  rotate: false
+  xy: 576, 484
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_06
+  rotate: true
+  xy: 578, 342
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_07
+  rotate: false
+  xy: 578, 217
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_08
+  rotate: false
+  xy: 575, 92
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_09
+  rotate: true
+  xy: 703, 342
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_10
+  rotate: false
+  xy: 720, 217
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_11
+  rotate: false
+  xy: 717, 92
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_12
+  rotate: true
+  xy: 718, 592
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_13
+  rotate: false
+  xy: 843, 590
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_14
+  rotate: false
+  xy: 985, 590
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_15
+  rotate: false
+  xy: 828, 465
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_16
+  rotate: false
+  xy: 970, 465
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_17
+  rotate: false
+  xy: 968, 340
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_18
+  rotate: false
+  xy: 862, 215
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_19
+  rotate: false
+  xy: 859, 90
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_restore/ps_reform_20
+  rotate: true
+  xy: 1004, 198
+  size: 140, 123
+  orig: 144, 125
+  offset: 2, 1
+  index: -1
+stone_split_effect/ps_explode_00
+  rotate: false
+  xy: 862, 715
+  size: 204, 204
+  orig: 302, 302
+  offset: 48, 51
+  index: -1
+stone_split_effect/ps_explode_01
+  rotate: false
+  xy: 2, 559
+  size: 298, 270
+  orig: 302, 302
+  offset: 1, 16
+  index: -1
+stone_split_effect/ps_explode_02
+  rotate: false
+  xy: 2, 831
+  size: 298, 300
+  orig: 302, 302
+  offset: 1, 1
+  index: -1
+stone_split_effect/ps_explode_03
+  rotate: false
+  xy: 302, 847
+  size: 278, 284
+  orig: 302, 302
+  offset: 11, 14
+  index: -1
+stone_split_effect/ps_explode_04
+  rotate: false
+  xy: 2, 277
+  size: 280, 280
+  orig: 302, 302
+  offset: 9, 21
+  index: -1
+stone_split_effect/ps_explode_05
+  rotate: true
+  xy: 302, 565
+  size: 280, 272
+  orig: 302, 302
+  offset: 8, 28
+  index: -1
+stone_split_effect/ps_explode_06
+  rotate: false
+  xy: 582, 859
+  size: 278, 272
+  orig: 302, 302
+  offset: 9, 28
+  index: -1
+stone_split_effect/ps_explode_07
+  rotate: false
+  xy: 2, 3
+  size: 278, 272
+  orig: 302, 302
+  offset: 9, 28
+  index: -1
+stone_split_effect/ps_explode_08
+  rotate: false
+  xy: 862, 921
+  size: 258, 210
+  orig: 302, 302
+  offset: 28, 38
+  index: -1
+ui_block_a
+  rotate: false
+  xy: 828, 343
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+ui_block_b
+  rotate: false
+  xy: 724, 739
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+ui_block_c
+  rotate: true
+  xy: 1001, 63
+  size: 133, 122
+  orig: 133, 122
+  offset: 0, 0
+  index: -1
